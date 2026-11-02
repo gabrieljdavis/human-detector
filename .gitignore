@@ -221,3 +221,6 @@ __marimo__/
 
 # Datasets: too big for Git, re-download with the commands in the README
 data/
+
+# macOS Finder metadata
+.DS_Store
